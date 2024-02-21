@@ -1,5 +1,3 @@
---Ninam Rai
---200619540
 clean_data = LOAD 'AB_NYC_2019.csv' USING PigStorage(',') AS 
     (id: int,
     name: chararray,
