@@ -1,5 +1,3 @@
-#Ninam Rai
-#200619540
 from pyspark.sql import SparkSession
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.linalg import Vectors
